@@ -1,7 +1,7 @@
 {
   "HorizonLayout":[
     {
-      "showSearch":true,
+      "showSearch":false,
       "showMenu":true,
       "layout":"logo",
       "showLogo":true
