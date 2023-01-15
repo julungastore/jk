@@ -37,7 +37,7 @@
       "marginLeft":0.0,
       "items":[
         {
-          "image":"https://julunga.com/wp-content/uploads/2021/07/banner2-for-mobile.jpg",
+          "image":"https://julunga.com/wp-content/uploads/2019/10/NEW-BANNER-Final.jpg",
           "showSubcategory":false,
           "bannerWithProduct":false,
           "defaultShowProduct":false,
@@ -585,7 +585,7 @@
         "fontSize":9,
         "titleColor":null,
         "enableDivider":false,
-        "title":"",
+        "title":"GSTIN 18CACPB2961B1Z9",
         "verticalPadding":{
           "x":0,
           "y":0}
@@ -637,9 +637,9 @@
   },
   "searchSuggestion": [
     "Popular Searches ⚡ ",
-    "Nagwan Kaju -100g",
-    "Grapes (500g)",
+    "Potato (আলু)",
+    "Carrot (গাজৰ)",
     "Pomegranate",
-    "Royal Crown Fard -500g"
+    "Al-Barkat Black Pearl Mazafati - 400g"
   ]
 }
