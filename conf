@@ -544,7 +544,7 @@
 "marginLeft":0.0,
 "marginRight":0.0,
 "bottomBarStyle":"static",
-"alwaysShowTabBar":true,
+"alwaysShowTabBar":false,
 "TabBarIndicator":{
 "height":2.0,
 "tabPosition":"bottom",
