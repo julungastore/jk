@@ -297,7 +297,7 @@
       "orderby":"date",
       "hPadding":2.0,
       "hidePrice":false,
-      "rows":2,
+      "rows":1,
       "enableBottomAddToCart":false,
       "layout":"threeColumn",
       "enableRating":false,
